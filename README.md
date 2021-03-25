@@ -11,9 +11,9 @@ Paypal: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif
 - Modification files (based on OTRS 6.0.32) has been tag with :  
   
 
-		#=================BEGIN SERVICE COMMENT==============================#
+		#==================BEGIN SERVICE COMMENT==============================#
 		CODE
-		#=================+END SERVICE COMMENT===============================#
+		#===================END SERVICE COMMENT===============================#
 		
 1. Modify your existing DynamicList / TicketList Statistic to include **Service Comment** content.  
 2. Case reference: https://forums.otterhub.org/viewtopic.php?f=62&t=42394
